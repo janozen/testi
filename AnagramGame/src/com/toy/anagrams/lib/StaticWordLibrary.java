@@ -163,6 +163,7 @@ final class StaticWordLibrary extends WordLibrary {
      */
     public int getSize() {
         return WORD_LIST.length;
+        //asadasdaadasads
     }
 
     /**
